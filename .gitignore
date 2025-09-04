@@ -129,7 +129,9 @@ $tf/
 
 # ReSharper is a .NET coding add-in
 _ReSharper*/
-*.[Rr]e[Ss]harper
+*.[Rr]e[Ss]harpe
+
+
 *.DotSettings.user
 
 # TeamCity is a build add-in
